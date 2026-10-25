@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muhammadkashan-tech/muhammadkashan-tech/main/banner.gif" alt="Muhammad Kashan Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/muhammadkashan-tech/muhammadkashan-tech/main/banner.svg" alt="Muhammad Kashan Live Banner" width="100%">
 </div>
-
 <div align="center">
 
 # 👨‍💻 MUHAMMAD KASHAN
