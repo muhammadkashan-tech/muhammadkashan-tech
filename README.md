@@ -1,8 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-  <!-- Dynamic modern banner generation for Muhammad Kashan -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=MUHAMMAD%20KASHAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modern%20Web%20%26%20Mobile%20App%20Developer&descAlignY=62&descSize=18" width="100%" alt="Muhammad Kashan Banner" />
+  <img src="https://raw.githubusercontent.com/muhammadkashan-tech/muhammadkashan-tech/main/banner.gif" alt="Muhammad Kashan Banner" width="100%">
 </div>
 
 <div align="center">
@@ -11,7 +8,7 @@
 ### Modern Web & Application Development Student | Full-Stack & Cross-Platform Developer 🚀
 
 [![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/muhammadkashan-tech)
 
 </div>
@@ -20,13 +17,13 @@
 
 ### 🚀 About Me
 
-I am a passionate **Modern Web & Mobile Application Developer** currently mastering full-stack web architectures and cross-platform app development. I specialize in building responsive frontend interfaces, scalable backend APIs, and modern interactive applications.
+I am a passionate **Modern Web & Mobile Application Developer** currently mastering full-stack web architectures and cross-platform app development. I specialize in building responsive frontend interfaces, scalable backend APIs, and live interactive applications.
 
 - 🌱 Currently learning **Modern Web & Application Development** at **Saylani Mass IT Training (SMIT)**
 - 🛠️ Deepening expertise across **Web Designing**, **Front-End**, **Modern Frameworks**, **Back-End Services**, and **React Native**
 - 🤝 Open to collaborating on **Open-Source Web Apps & Cross-Platform Mobile Projects**
 - 💬 Ask me about **HTML/CSS, JavaScript, React, Node.js, Express, and UI/UX Design**
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **mughalkashan778@gmail.com**
 
 ---
 
@@ -82,7 +79,7 @@ A modern responsive online store built using React, Node.js, Express, and MongoD
 An iOS and Android application featuring clean UI navigation, API integrations, global state handling, and offline storage.
 
 **🔹 Real-Time Dashboard & Task Manager**
-Interactive admin panel with dark/light themes, dynamic data visualization, and Firebase backend integration.
+Interactive admin panel with dark/light themes, dynamic live data visualization, and Firebase backend integration.
 
 ---
 
@@ -93,7 +90,7 @@ Interactive admin panel with dark/light themes, dynamic data visualization, and 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Live Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadkashan-tech&show_icons=true&bg_color=0D1117&title_color=4FACFE&text_color=FFFFFF&icon_color=00F2FE&hide_border=true" height="170px"/>
